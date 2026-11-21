@@ -1,0 +1,13 @@
+export const EVENT = {
+  NONE: 0,
+  FOOTSTEP: 1,
+  LOOT: 2,
+  HEARD: 4,
+  NEAR_MISS: 8,
+  DETECTED: 16,
+  CAUGHT: 32,
+  LEVEL_CLEAR: 64,
+  WIN: 128,
+  THROW: 256,
+  ALARM_RISE: 512,
+};
